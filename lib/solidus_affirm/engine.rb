@@ -1,3 +1,5 @@
+require 'solidus_support'
+
 module SolidusAffirm
   class Engine < Rails::Engine
     require 'spree/core'
